@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "DirToXML": {
+      "commandName": "Project",
+      "commandLineArgs": "-l C:\\Users\\Dav\\source\\repos\\JudyPeters-.net\\JudyPeters-.net\\wwwroot\\portfolio\\img\\",
+      "workingDirectory": "C:\\Users\\Dav\\source\\repos\\DirToXML\\DirToXML"
+    }
+  }
+}
